@@ -1,0 +1,16 @@
+.vs
+x64
+Tests/Test001/*.dir
+Tests/Test001/Debug
+Tests/Test001/Release
+Tests/Test001/RelWithDebInfo
+Tests/Test001/MinSizeRel
+Tests/Test001/Resources.aps
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
